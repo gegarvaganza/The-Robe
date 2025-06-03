@@ -193,9 +193,9 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EquatorColor: {r: 0.8679245, g: 0.37440804, b: 0, a: 1}
-    - _GroundColor: {r: 0.5471698, g: 0, b: 0, a: 1}
+    - _GroundColor: {r: 1, g: 0.43673247, b: 0, a: 1}
     - _MoonColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SkyColor: {r: 1, g: 0.24449503, b: 0, a: 1}
+    - _SkyColor: {r: 1, g: 0.5779401, b: 0, a: 1}
     - _SkyboxRotationAxis: {r: 0, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _StarsRotationAxis: {r: 0, g: 1, b: 0, a: 0}
