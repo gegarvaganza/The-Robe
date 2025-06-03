@@ -5,7 +5,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Game"); // game scene name
+        SceneManager.LoadScene("The Robe"); // game scene name
         Time.timeScale = 1f; // In case game was paused at Win
     }
 

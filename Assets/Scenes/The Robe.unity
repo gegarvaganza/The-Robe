@@ -2726,7 +2726,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicSource: {fileID: 1622261529}
   SFXSource: {fileID: 0}
-  background: {fileID: 0}
+  background: {fileID: 8300000, guid: 05e6b7aad86570c4e94250cee485fbbc, type: 3}
   death: {fileID: 0}
   wallTouch: {fileID: 0}
   Jump: {fileID: 0}
@@ -21389,6 +21389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 0}
+  spawnPoint: {x: 0, y: 0, z: 0}
 --- !u!82 &1391168632
 AudioSource:
   m_ObjectHideFlags: 0
