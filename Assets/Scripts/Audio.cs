@@ -19,9 +19,4 @@ public class Audio : MonoBehaviour
         musicSource.clip = background;
         musicSource.Play();
     }
-
-    private void PlaySFX(AudioClip clip)
-    {
-
-    }
 }
